@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Go" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Go" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Go" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="altalanos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="altalanos.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="files.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="files.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="foresz.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="foresz.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="kerites_jatekmenet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="kerites_jatekmenet.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="szamlalo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="szamlalo.h">
+			<Option target="Debug" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

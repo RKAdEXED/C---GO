@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1669573155 source:c:\users\varga\desktop\nhz go\go\main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"debugmalloc.h"
+	"files.h"
+	"kerites_jatekmenet.h"
+	"altalanos.h"
+	"szamlalo.h"
+	"foresz.h"
+	"menu.h"
+
+1669549232 source:c:\users\varga\desktop\nhz go\go\lab7.c
+	<stdio.h>
+	<math.h>
+	"debugmalloc.h"
+
+1669558733 source:c:\users\varga\desktop\nhz go\go\fun.c
+	<stdlib.h>
+	<stdio.h>
+	"debugmalloc.h"
+	<stdio.h>
+
+1669549232 source:c:\users\varga\desktop\nhz go\go\idunno.c
+	<stdlib.h>
+	<stdio.h>
+	"debugmalloc.h"
+
+1669552721 c:\users\varga\desktop\nhz go\go\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1669561581 source:c:\users\varga\desktop\nhz go\go\filekezeles.c
+	<stdlib.h>
+	<stdio.h>
+	"debugmalloc.h"
+
+1669561479 c:\users\varga\desktop\nhz go\go\filekezeles.c
+	<stdlib.h>
+	<stdio.h>
+	"debugmalloc.h"
+
+1669566817 source:c:\users\varga\desktop\nhz go\go\fuggvenyek.c
+	<stdio.h>
+	<stdlib.h>
+	"fuggvenyek.h"
+
+1669566817 c:\users\varga\desktop\nhz go\go\fuggvenyek.h
+
+1669573155 source:c:\users\varga\desktop\nhz go\go\files.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	"files.h"
+	"foresz.h"
+	"menu.h"
+
+1669570762 c:\users\varga\desktop\nhz go\go\files.h
+
+1670107732 source:c:\users\varga\desktop\nhz go\go\kerites_jatekmenet.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"kerites_jatekmenet.h"
+	"altalanos.h"
+	"debugmalloc.h"
+	"foresz.h"
+	"menu.h"
+
+1669571800 c:\users\varga\desktop\nhz go\go\kerites_jatekmenet.h
+
+1669573155 source:c:\users\varga\desktop\nhz go\go\altalanos.c
+	<stdlib.h>
+	<stdio.h>
+	"altalanos.h"
+	"debugmalloc.h"
+	"foresz.h"
+	"menu.h"
+
+1669573155 c:\users\varga\desktop\nhz go\go\altalanos.h
+
+1669572620 c:\users\varga\desktop\nhz go\go\szamlalo.h
+
+1669573155 source:c:\users\varga\desktop\nhz go\go\szamlalo.c
+	<stdlib.h>
+	<stdio.h>
+	"altalanos.h"
+	"debugmalloc.h"
+	"szamlalo.h"
+	"foresz.h"
+	"menu.h"
+
+1669573155 c:\users\varga\desktop\nhz go\go\foresz.h
+
+1669573155 c:\users\varga\desktop\nhz go\go\menu.h
+
+1676990258 source:c:\users\varga\desktop\nhz go\go\foresz.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"debugmalloc.h"
+	"files.h"
+	"kerites_jatekmenet.h"
+	"altalanos.h"
+	"szamlalo.h"
+	"foresz.h"
+	"menu.h"
+
+1677013432 source:c:\users\varga\desktop\nhz go\go\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"debugmalloc.h"
+	"files.h"
+	"kerites_jatekmenet.h"
+	"altalanos.h"
+	"szamlalo.h"
+	"foresz.h"
+	"menu.h"
+
